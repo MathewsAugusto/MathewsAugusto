@@ -1,5 +1,5 @@
 - 👋 Oii, sou @MathewsAugusto
-- 👀 Gosto muito de programar, PHP, Java, Phyton, JavaScript e ... 😎
+- 👀 Gosto muito de programar JavaScript, React TS, PHP, Java, Phyton,  e ... 😎
 - 🌱 Atualmente aprendendo a cada dia
 - 💞️ Gosto de colaborar o com o mundo 🌎
 - 📫 Caso queira me achar, só chamar nas redes sociais 🤷‍♂️
